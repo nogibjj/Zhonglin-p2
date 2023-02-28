@@ -30,4 +30,8 @@ reinstall rust on cloud9 environment.
 
 build docker.
 
-<img width="590" alt="image" src="https://user-images.githubusercontent.com/112585430/222003691-fda2657a-8508-4440-9803-7c0ee0822aad.png">
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/112585430/222003691-fda2657a-8508-4440-9803-7c0ee0822aad.png">. 
+
+push the image to the repository. 
+
+<img width="871" alt="image" src="https://user-images.githubusercontent.com/112585430/222004342-b582194d-e7be-4932-bfb5-06e04f73ed7d.png">
