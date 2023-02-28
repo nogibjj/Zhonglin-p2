@@ -11,3 +11,9 @@ A. type: `/` that returns a message : "This is a random best university of the U
 B. type: `/university` that returns a random university in the list of the US top 10 best universities
 
 C. type: `/version` that returns the version of the package 
+
+## 1. `cargo run`
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/112585430/221992977-b85337d9-3a34-42ab-b561-2bb50bbe581f.png">
+Initiating message:  
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/112585430/221993156-9243a1c6-fc8f-49f4-affc-ff5439f5a48c.png">
