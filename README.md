@@ -6,8 +6,8 @@ I create a simple actix Microservice for top 10 US universities recommendation
 
 This actix Microservice has multiple routes:
 
-A. type: "/" that returns a message : "Hello, random best movies around the world!"
+A. type: "/" that returns a message : "This is a random best university of the US generator!"
 
-B. type: "/movie" that returns a random best movie in the list of the world top 10 best movies
+B. type: "/university" that returns a random best movie in the list of the US top 10 best universities
 
-C. type: "/version" that returns the version of the service 
+C. type: "/version" that returns the version of the package 
