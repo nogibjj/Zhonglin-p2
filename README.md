@@ -20,4 +20,6 @@ Initiating message:
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/112585430/221993315-e8633cc8-0f87-45af-90f3-a34b2c253b9b.png">
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/112585430/221994784-b69fc902-6ec2-4ce2-8220-c7b3228325cc.png">
 
-## 2. build container
+## 2. `git clone https://github.com/nogibjj/Zhonglin-p2.git`
+
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/112585430/222000347-129d8bc9-e886-4245-9b53-e008c2d63256.png">
