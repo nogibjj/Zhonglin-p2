@@ -6,7 +6,7 @@ use webdocker::random_movie;
 //create a function that returns a hello world
 #[get("/")]
 async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello, random best university of the US!")
+    HttpResponse::Ok().body("This is a random best university of the US generator!")
 }
 
 //create a function that returns a random best movie
