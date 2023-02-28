@@ -24,5 +24,6 @@ Initiating message:
 `git clone https://github.com/nogibjj/Zhonglin-p2.git`
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/112585430/222000683-017503b2-e6c2-4284-89ee-0bffa0b71f86.png">
 
-reinstall rust on cloud9 environment
+reinstall rust on cloud9 environment.  
+
 <img width="630" alt="image" src="https://user-images.githubusercontent.com/112585430/222000347-129d8bc9-e886-4245-9b53-e008c2d63256.png">
