@@ -27,3 +27,7 @@ Initiating message:
 reinstall rust on cloud9 environment.  
 
 <img width="630" alt="image" src="https://user-images.githubusercontent.com/112585430/222000347-129d8bc9-e886-4245-9b53-e008c2d63256.png">
+
+build docker.
+
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/112585430/222003691-fda2657a-8508-4440-9803-7c0ee0822aad.png">
