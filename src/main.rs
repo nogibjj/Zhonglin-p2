@@ -1,4 +1,3 @@
-
 use actix_web::{get, App, HttpResponse, HttpServer, Responder};
 //import the random fruit function from the lib.rs file
 use webdocker::random_movie;

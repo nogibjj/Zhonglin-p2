@@ -3,10 +3,10 @@ install:
 		cargo build -j 1
 
 build:
-	docker build -t movie .
+	docker build -t university .
 
 rundocker:
-	docker run -it --rm -p 8080:8080 movie
+	docker run -it --rm -p 8080:8080 university
 
 format:
 	cargo fmt --quiet
