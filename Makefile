@@ -6,7 +6,7 @@ build:
 	docker build -t university .
 
 rundocker:
-	docker run -it --rm -p 8080:8080 university
+	docker run -it --rm -p 8080:8080 universityrebu
 
 format:
 	cargo fmt --quiet
