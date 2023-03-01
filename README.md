@@ -20,7 +20,7 @@ Initiating message:
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/112585430/221993315-e8633cc8-0f87-45af-90f3-a34b2c253b9b.png">
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/112585430/221994784-b69fc902-6ec2-4ce2-8220-c7b3228325cc.png">
 
-## 2. clone repo on aws clound9
+## 2. clone repo on aws clound9, run the app on AWS APP runner.
 `git clone https://github.com/nogibjj/Zhonglin-p2.git`
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/112585430/222000683-017503b2-e6c2-4284-89ee-0bffa0b71f86.png">
 
@@ -41,4 +41,3 @@ Go to AWS APP runner
 deploy the app from the image 
 
 <img width="1574" alt="image" src="https://user-images.githubusercontent.com/112585430/222012910-c46f48fa-4096-46fb-a7d8-f2c35962e494.png">
-
