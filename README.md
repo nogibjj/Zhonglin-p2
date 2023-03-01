@@ -35,3 +35,8 @@ build docker.
 push the image to the repository. 
 
 <img width="871" alt="image" src="https://user-images.githubusercontent.com/112585430/222004342-b582194d-e7be-4932-bfb5-06e04f73ed7d.png">
+
+Go to AWS APP runner. 
+deploy the app from the image. 
+<img width="1574" alt="image" src="https://user-images.githubusercontent.com/112585430/222012910-c46f48fa-4096-46fb-a7d8-f2c35962e494.png">
+
